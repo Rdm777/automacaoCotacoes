@@ -15,7 +15,7 @@ Quando os valores dos produtos estiverem atualizados, os dados são salvos na pl
   <ul>
       <li>➡️ Python 🐍</li>
       <li>➡️ Selenim</li>
-  </ul>
+  </ul> <br><br><br>
 
 
   <h1>Search Quotes💵</h1>
