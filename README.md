@@ -17,11 +17,10 @@ Quando os valores dos produtos estiverem atualizados, os dados são salvos na pl
       <li>➡️ Selenim</li>
   </ul>
 
-<hr>
 
   <h1>Search Quotes💵</h1>
   <hr>
-  <h3>⏺️ Automação de Cotações</h3>
+  <h3>⏺️ Quotes Automation</h3>
   <br>
 
   <h4>How it Works?</h4>
